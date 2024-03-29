@@ -17,3 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 <p align="center">
   <img src="https://github.com/Dipeshmaurya1/quick_starter/assets/149373441/94a82afb-e72e-4593-8582-448f36ac6136" width=22% height=35%>
 </p>
+<p align="center">
+  <img src="https://github.com/Dipeshmaurya1/quick_starter/assets/149373441/68d11164-d892-4129-b250-9e62fda434ee" width=22% height=35%>
+</p>
+<p align="center">
+  <img src="https://github.com/Dipeshmaurya1/quick_starter/assets/149373441/48ee9e05-251a-4869-b76d-ac68325f978c" width=22% height=35%>
+</p>
+
+
